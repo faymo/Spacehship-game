@@ -28,3 +28,5 @@ Shoot bullets at your enemy 10 times to win!
 You start with 10 lives.
 You can collect power ups by driving over them.
 Have fun!
+
+# Special Thanks to Tech With Tim
