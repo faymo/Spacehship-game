@@ -29,4 +29,7 @@ You start with 10 lives.
 You can collect power ups by driving over them.
 Have fun!
 
+# Demo Video
+https://youtu.be/Uup2onp6b4Q
+
 # Special Thanks to Tech With Tim
